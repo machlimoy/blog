@@ -1,0 +1,17 @@
+.lssk{
+  position: relative;
+  background-color: #A66CFF;
+  width:200px;
+  height:100px;
+}
+
+.child{
+  position: absolute;
+  display: inline-block;
+  background-color: #FEC260;
+  width : 30px;
+  height: 20px;
+  //display: none;  //displays none blocks the div or hides
+  top: 0;
+  right: 0;
+}

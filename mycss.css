@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding:10px;
+}
+.mystyle{
+  background-color: #A62349;
+  color:yellow;
+  border: 3px solid orange;
+  padding-left:220px;
+  padding-right: 220px;
+}
+h1 {
+  background-color:lightyellow;
+  color: #002B5B;
+}
+@media (max-width: 768px) {
+    body{
+      background-color: #FA9494;
+    }
+}
+@media (min-width: 1024px) {
+  body{
+    background-color: #7FB77E;
+  }
+
+}

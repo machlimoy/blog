@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 47px;
+}
+
+.parent
+{
+  background-color: #000;
+  width: auto;
+  height: auto;
+  display: flex;
+  grid-gap: 15px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+
+  flex-direction: column;
+}
+
+.child1
+{
+    background-color: #FECD70;
+    width:20px;
+    height: 30px;
+}
+
+.child2
+{
+    background-color: #FECD70;
+    width:10px;
+    height: 20px;
+}
+
+.child3
+{
+    background-color: #FECD70;
+    width:20px;
+    height: 5px;
+}
+
+.child4
+{
+    background-color: #FECD70;
+    width:10px;
+    height: 8px;
+}
